@@ -8,3 +8,10 @@
     color: black;
     border-radius: 2%;
 }
+
+.jumbotron {
+    margin-top: 4%;
+    padding: 5%;
+    background-color: #007bff;
+    color: #ffffff;
+}
